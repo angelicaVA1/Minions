@@ -1,0 +1,9 @@
+public class Minion(){
+	string color="amarillo";
+	string estatura="30 cm";
+	int ojos=1;
+	public hablar(){
+		return"me want banana";
+}
+
+}
