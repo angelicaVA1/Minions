@@ -1,10 +1,19 @@
 public class Minion(){
 	string color="amarillo";
 	string estatura="30 cm";
-	int ojos=1;
-	cabello=true;
+	int ojos=2;
+	booleano cabello=true;
+	boolean  ropa=true;
 	public hablar(){
 		return"me want banana";
+	
+}
+	public pensar(){
+		int x= 2*2;
+ 
+}
+	public cantar (){
+return       "la la la"
 }
 
 }
