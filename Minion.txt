@@ -13,7 +13,7 @@ public class Minion(){
  
 }
 	public cantar (){
-return       "la la la"
+return       "la la la la la"
 }
 
 }
